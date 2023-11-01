@@ -15,5 +15,5 @@ Implement copy to clipboard functionality.
 
 Write clean and organized code to maintain readability and maintainability.
 
-Project Link-tiny-pasca-e55da1.netlify.app
+Project Link-https://text-summarizer.netlify.app
 
